@@ -1,0 +1,21 @@
+[2023-03-06 12:20:44] [ INFO ] [OdontologoDaoH2:47] Buscando a todos los odontologos
+[2023-03-06 12:21:41] [ INFO ] [OdontologoDaoH2:47] Buscando a todos los odontologos
+[2023-03-06 12:21:49] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}
+[2023-03-06 12:21:49] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}
+[2023-03-06 12:22:52] [ INFO ] [OdontologoDaoH2:47] Buscando a todos los odontologos
+[2023-03-06 12:24:53] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}
+[2023-03-06 12:24:53] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}
+[2023-03-06 12:27:16] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}
+[2023-03-06 12:27:16] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}
+[2023-03-06 12:31:19] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}
+[2023-03-06 12:31:19] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}
+[2023-03-06 12:32:10] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}
+[2023-03-06 12:32:10] [ INFO ] [OdontologoDaoH2:26] Se guardo un Odontologo{ID=null, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}
+[2023-03-06 12:32:10] [ INFO ] [OdontologoDaoH2:16] Registrando un nuevo: Odontologo{ID=null, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}
+[2023-03-06 12:32:10] [ INFO ] [OdontologoDaoH2:26] Se guardo un Odontologo{ID=null, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}
+[2023-03-06 12:32:16] [ INFO ] [OdontologoDaoH2:47] Buscando a todos los odontologos
+[2023-03-06 12:33:13] [ INFO ] [OdontologoDaoH2:48] Buscando a todos los odontologos
+[2023-03-06 12:34:04] [ INFO ] [OdontologoDaoH2:48] Buscando a todos los odontologos
+[2023-03-06 12:34:50] [ INFO ] [OdontologoDaoH2:47] Buscando a todos los odontologos
+[2023-03-06 12:34:50] [ INFO ] [OdontologoDaoH2:57] Se encontro el siguiente odontologo en la lista de odontologos: [Odontologo{ID=1, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}]
+[2023-03-06 12:34:50] [ INFO ] [OdontologoDaoH2:57] Se encontro el siguiente odontologo en la lista de odontologos: [Odontologo{ID=1, NUMERO_MATRICULA='2324', NOMBRE='Pedro', APELLIDO='Gonzalez'}, Odontologo{ID=2, NUMERO_MATRICULA='3463', NOMBRE='Lucas', APELLIDO='Perez'}]
